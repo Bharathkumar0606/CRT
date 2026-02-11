@@ -1,5 +1,5 @@
 
-n = int(input("Enter a number: "))  # shows prompt in terminal
+n = int(input("Enter a number: ")) 
 count = 0
 
 print("Factors of", n, "are:")
